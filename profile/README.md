@@ -10,10 +10,7 @@ Building tools for independent publishers.
 
 | Repo | Description |
 |---|---|
-| [moss-releases](https://github.com/Symbiosis-Lab/moss-releases) | Download moss + issue tracker |
-| [moss-core](https://github.com/Symbiosis-Lab/moss-core) | Pure-Rust content engine (crates.io) |
-| [moss-api](https://github.com/Symbiosis-Lab/moss-api) | TypeScript SDK for moss plugins (npm) |
-| [moss-plugins](https://github.com/Symbiosis-Lab/moss-plugins) | Official publishing plugins |
-| [mcp-server-tauri](https://github.com/Symbiosis-Lab/mcp-server-tauri) | MCP server for AI-assisted Tauri development |
+| [moss](https://github.com/Symbiosis-Lab/moss) | Download moss + issue tracker |
+| [moss-registry](https://github.com/Symbiosis-Lab/moss-registry) | Registry for plugins and themes |
 
 [mosspub.com](https://mosspub.com) · [Discussions](https://github.com/orgs/Symbiosis-Lab/discussions)
